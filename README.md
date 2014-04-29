@@ -19,3 +19,7 @@ Hey it worked!!!
 1. git push -u origin master
 
 Now this is done! 
+
+### After this is up in the GitHub
+
+I can edit using Prose.io

@@ -30,4 +30,8 @@ I want to detect if new commit was made from local machine.
 
 Deoes it work?
 
+<<<<<<< HEAD
 I am making change from local machine
+=======
+I am ahead of one commit!
+>>>>>>> 8b00e79bfe7dfeb0017a0881a8d167f9affa4b89

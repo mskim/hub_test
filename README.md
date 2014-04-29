@@ -27,3 +27,5 @@ I can edit using Prose.io
 ### I commit this
 
 I want to detect if new commit was made from local machine.
+
+Deoes it work?

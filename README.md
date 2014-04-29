@@ -23,3 +23,7 @@ Now this is done!
 ### After this is up in the GitHub
 
 I can edit using Prose.io
+
+### I commit this
+
+I want to detect if new commit was made from local machine.
